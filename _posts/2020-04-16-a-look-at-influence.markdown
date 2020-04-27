@@ -5,7 +5,7 @@ date:  2020-04-16 15:42:02 -0300
 author: Jackson Allen
 ---
   The story of modern pop music cannot be told without giving credit to those who came before.
-There is an odd misconception by the public that this idea is a purely nostalgic, as if everything
+There is an odd misconception by the public that this idea is purely nostalgic, as if everything
 in pop culture exists in a vacuum. I strongly disagree with that philosophy.
 
   It is impossible to throw a conversational stone and not land squarely on the doorstep of The Beatles.
@@ -13,7 +13,7 @@ Since their iconic performance on the Ed Sullivan Show in 1964, the four boys fr
 public consciousness in a miraculously brief career. The Beatles spearheaded the British Invasion, turned
 the pop landscape away from R&B, and became the first real superstars all before the Summer of Love.
 It is almost hard to believe that they traded their mop-tops and suits for long lochs and British officer
-uniforms in under a decade. My observations and tall tales have been echoed for decades by hundreds of
+uniforms in under a decade. My observations and tall tales have been told for decades by hundreds of
 millions of people around the world. Simply put, praising The Beatles was as common as praising God.
 
 So, why is this immense cultural presence being forgotten?
